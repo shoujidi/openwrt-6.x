@@ -109,7 +109,6 @@ ALLWIFIBOARDS:= \
 	zte_mf287plus \
 	zyxel_nbg7815 \
 	zyxel_nwa210ax \
-    # zyxel_scr50axe \
 	anysafe_e1 \
 	cmiot_ax18 \
 	jdcloud_re-ss-01 \
@@ -121,6 +120,7 @@ ALLWIFIBOARDS:= \
 	verizon_cr1000a \
 	xiaomi_ax1800 \
 	zn_m2
+    # zyxel_scr50axe \
 
 ALLWIFIPACKAGES:=$(foreach BOARD,$(ALLWIFIBOARDS),ipq-wifi-$(BOARD))
 
