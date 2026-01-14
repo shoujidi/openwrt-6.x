@@ -109,7 +109,7 @@ ALLWIFIBOARDS:= \
 	zte_mf287plus \
 	zyxel_nbg7815 \
 	zyxel_nwa210ax \
-# zyxel_scr50axe \
+    # zyxel_scr50axe \
 	anysafe_e1 \
 	cmiot_ax18 \
 	jdcloud_re-ss-01 \
